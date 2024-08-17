@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Kaushal Satyam Gupta</h1>
+<h1 align="center">Hi 👋, I'm Satyam Gupta</h1>
 
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushalastyamgupta&label=Profile%20views&color=0e75b6&style=flat" alt="kaushalastyamgupta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushalsatyamgupta&label=Profile%20views&color=0e75b6&style=flat" alt="kaushalsatyamgupta" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushalastyamgupta" alt="kaushalastyamgupta" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushalsatyamgupta" alt="kaushalsatyamgupta" /></a> </p>
 
 - 🌱 I’m currently working on **a project to simplify business processes**
 
@@ -45,8 +45,8 @@
 ![Project Dashboard]
 *Image: Business Simplification Tool Dashboard*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushalastyamgupta&show_icons=true&locale=en&layout=compact" alt="kaushalastyamgupta" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushalsatyamgupta&show_icons=true&locale=en&layout=compact" alt="kaushalsatyamgupta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushalastyamgupta&show_icons=true&locale=en" alt="kaushalastyamgupta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushalsatyamgupta&show_icons=true&locale=en" alt="kaushalsatyamgupta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalastyamgupta&" alt="kaushalastyamgupta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalsatyamgupta&" alt="kaushalsatyamgupta" /></p>
